@@ -46,17 +46,14 @@ This README provides a comprehensive guide to the Resume Radar application. It i
 
 ## Screenshots
 
-### Output 1
-![Output 1](/static/imgs/output_3.jpg)
+### Upload Page
+![Output 1](/static/img/output_6.png)
 
-### Output 2
-![Output 2](/static/imgs/output_2.jpg)
+### Skill Wise pie chart
+![Output 2](/static/img/output_7.png)
 
-### Output 3
-![Output 3](/static/imgs/output_1.jpg)
+### Similarity with job description
+![Output 3](/static/img/output_9.png)
 
-### Output 4
-![Output 4](/static/imgs/output_4.jpg)
-
-### Output 5
-![Output 5](/static/imgs/output_5.jpg)
+### Recommended skills
+![Output 3](/static/img/output_8.png)

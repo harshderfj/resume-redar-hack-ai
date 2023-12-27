@@ -22,4 +22,6 @@ typing-extensions==4.3.0
 Werkzeug==2.3.3
 zipp==3.8.1
 nltk
-rouge_score
+torch
+transformers
+uagents
