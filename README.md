@@ -27,7 +27,7 @@ $ python3 -m venv venv
 $ source ./venv/bin/activate
 $ pip install -r requirements.txt
 $ flask run
-
+```
 
 ## Usage
 - *Upload Files*: Upload resumes and job descriptions in PDF format. Files are stored in the uploads folder.
